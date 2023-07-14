@@ -16,7 +16,7 @@ int main(void)
 	f = n % 10;
 	if (f > 5)
 	{
-		printf("Last digit of %d is %d amd is greater than 5", n. f);
+		printf("Last digit of %d is %d amd is greater than 5", n, f);
 	}
 	else if (f == 0)
 	{
