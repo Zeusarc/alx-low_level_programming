@@ -1,0 +1,4 @@
+ilphabet.c:11:9: error: ‘n’ undeclared (first use in this function)
+   11 |  while (n <= 122)
+      |         ^
+2-print_alphabet.c:11:9: note: each undeclared identifier is reported only once for each function it appears in
