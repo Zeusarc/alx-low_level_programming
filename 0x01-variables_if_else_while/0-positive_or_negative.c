@@ -1,9 +1,11 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/*
-* main - The main function
-* Return - Return the value of 0
+/**
+ * main - Short description, single line
+*
+* Description: Longer description of the function
+* Return: Description of the returned value
 */
 int main(void)
 {
