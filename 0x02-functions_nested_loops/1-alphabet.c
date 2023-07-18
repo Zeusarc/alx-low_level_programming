@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-* main - Short description,
+* print_alphabet - Short description,
 *
 * Return: Description of the returned value
 */
