@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-* main - Short description,
+* print_alphabet_x10(void) - Short description,
 *
 * Return: Description of the returned value
 */
@@ -11,7 +11,7 @@ void print_alphabet_x10(void)
 	
 	for ( i = 1; i <= 10; i++)
 	{
-		for (j = 97; j <= 122; j++ )
+		for (j = 97; j <= 122; j++)
 		{
 			_putchar(j);
 		}
