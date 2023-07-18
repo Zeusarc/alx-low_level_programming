@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-*void print_alphabet_x10(void) - Short description,
+*print_alphabet_x10 - Short description,
 *
 * Return: Description of the returned value
 */
