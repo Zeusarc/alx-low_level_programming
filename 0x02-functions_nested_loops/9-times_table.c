@@ -1,3 +1,4 @@
+#include "main.h"
 /**
  * times_table - check the code
  *
@@ -5,11 +6,12 @@
  */
 void times_table(void)
 {
-	int a, b, c, d;
+	int a, b, c;
 
 	for (a = 0; a <= 9; a++)
 	{
-		-putchar('0');
+		_putchar('0');
+
 		for (b = 1; b <= 9; b++)
 		{
 			_putchar(',');
@@ -22,6 +24,7 @@ void times_table(void)
 				_putchar(' ');
 			else
 				_putchar((c / 10) + '0');
+
 			_putchar((c % 10) + '0');
 
 		}
