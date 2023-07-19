@@ -2,12 +2,12 @@
 /**
 * _abs - Short description,
 *
-* @c:  gggg
+* @i:  gggg
 * Return: Description of the returned value
 */
 int _abs(int i)
 {
-	if (i >= 0 )
+	if (i >= 0)
 	{
 		return (i);
 	}
