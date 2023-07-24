@@ -4,6 +4,7 @@
  * swap_int - take in two variables and swap them
  * @a: stores adress of b after swap
  * @b: stores adress of a after swap
+ * @swap: temporary stores value to be swapped
  * Return: always return 0
  */
 
