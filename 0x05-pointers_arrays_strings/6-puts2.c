@@ -6,7 +6,7 @@
  * Return: vbhgjyrtbgvfd cx
  */
 
-void puts2(char *n)
+void puts2(char *str)
 {
 	int z = 0;
 
@@ -14,9 +14,9 @@ void puts2(char *n)
 	{
 		if (z % 2 == 0)
 		{
-			_putschar(str[z];)
+			_putchar(str[z]);
 		}
 		z++;
 	}
-	_putschar('\n');
+	_putchar('\n');
 }
