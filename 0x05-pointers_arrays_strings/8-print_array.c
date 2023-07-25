@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * print_array - bjfboiv sk 
+ * print_array - bjfboiv sk
  * @a: ehtrnaz
  * @n: eaverbznb/rmrrr
  *
