@@ -1,12 +1,13 @@
 #include "main.h"
 /**
-*_strcat - The name of the function
+*_strncat - The name of the function
 *@dest: destination
+@src: Source
 *@n: number of bytes to concartenated
 *Return: points to destination
 */
 
-char *_strcat(char *dest, char *src int n)
+char *_strncat(char *dest, char *src, int n)
 {
 	int length_of_string, z;
 
