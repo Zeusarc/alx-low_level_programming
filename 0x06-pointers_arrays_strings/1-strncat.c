@@ -2,7 +2,7 @@
 /**
 *_strncat - The name of the function
 *@dest: destination
-@src: Source
+*@src: Source
 *@n: number of bytes to concartenated
 *Return: points to destination
 */
